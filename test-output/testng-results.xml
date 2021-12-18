@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14990" started-at="2021-12-18T14:41:49 IST" finished-at="2021-12-18T14:42:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14990" started-at="2021-12-18T14:41:49 IST" finished-at="2021-12-18T14:42:04 IST">
+      <class name="Testcases.Beginhomepage">
+        <test-method status="PASS" signature="BeginPage()[pri:0, instance:Testcases.Beginhomepage@4493d195]" name="BeginPage" duration-ms="14932" started-at="2021-12-18T14:41:49 IST" finished-at="2021-12-18T14:42:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeginPage -->
+      </class> <!-- Testcases.Beginhomepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
